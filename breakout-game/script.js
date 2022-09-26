@@ -14,7 +14,7 @@ const delay = 500; //delay to reset the game
 const ball = {
   x: canvas.width / 2,
   y: canvas.height / 2,
-  size: 10,
+  size: 15,
   speed: 4,
   dx: 4,
   dy: -4,
